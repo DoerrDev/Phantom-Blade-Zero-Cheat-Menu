@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- 玄锋控制台图标：斗笠 + 斜斩之刃。配色取自 designmd.md（Onyx / Ivory / Cobalt）。 -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#252534"/>
+      <stop offset="1" stop-color="#121219"/>
+    </linearGradient>
+    <linearGradient id="blade" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#3b4cd4"/>
+      <stop offset="1" stop-color="#9aa6ff"/>
+    </linearGradient>
+    <linearGradient id="hat" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9c9d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="253" height="253" rx="54.5" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="3"/>
+
+  <!-- 刀身：自左下斜向右上，刀尖略带弧度 -->
+  <path d="M58 214 L196 60 Q210 46 222 38 Q216 52 204 68 L68 222 Z" fill="url(#blade)"/>
+  <path d="M63 218 L200 64" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+  <!-- 护手与刀柄 -->
+  <path d="M44 186 L92 230" stroke="#c3c3cc" stroke-width="9" stroke-linecap="round"/>
+  <path d="M62 212 L42 234" stroke="#70707d" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- 斗笠 -->
+  <path d="M128 58 L214 128 Q128 146 42 128 Z" fill="url(#hat)"/>
+  <path d="M128 58 L128 140" stroke="#171721" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M66 134 Q128 150 190 134 Q182 150 128 156 Q74 150 66 134 Z" fill="#0b0b10" fill-opacity="0.55"/>
+</svg>

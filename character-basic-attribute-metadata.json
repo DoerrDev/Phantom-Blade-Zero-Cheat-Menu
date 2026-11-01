@@ -1,0 +1,1871 @@
+[
+  {
+    "va": "0x14bc79030",
+    "name": "PreExecuteData",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc790c0",
+    "name": "OwningAbility",
+    "next_qword": "0x0",
+    "kind": "0x12",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79100",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0x12",
+    "packed_offset": "0x80001"
+  },
+  {
+    "va": "0x14bc79180",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc791c0",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc79230",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79270",
+    "name": "OutTags",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc792c0",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79300",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0x12",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc79350",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc793d0",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0x11",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc79450",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79490",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0xa",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc794f0",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79530",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc795a0",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc795e0",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0x0",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc79640",
+    "name": "Data",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79680",
+    "name": "NewMagnitude",
+    "next_qword": "0x0",
+    "kind": "0xa",
+    "packed_offset": "0x180001"
+  },
+  {
+    "va": "0x14bc796f0",
+    "name": "OnPreExecute",
+    "next_qword": "0x0",
+    "kind": "0x1b",
+    "packed_offset": "0x900001"
+  },
+  {
+    "va": "0x14bc79758",
+    "name": "CreateWaitPreGameplayEffectExecuteTask",
+    "next_qword": "0x145dd1f80",
+    "kind": "0x45dd1fb0",
+    "packed_offset": "0x4bb52430"
+  },
+  {
+    "va": "0x14bc79768",
+    "name": "GetActiveEffectHandle",
+    "next_qword": "0x145dd1fb0",
+    "kind": "0x45dd1fe0",
+    "packed_offset": "0x4bc79428"
+  },
+  {
+    "va": "0x14bc79778",
+    "name": "GetAssetTags",
+    "next_qword": "0x145dd1fe0",
+    "kind": "0x45dd2010",
+    "packed_offset": "0x4bc794d8"
+  },
+  {
+    "va": "0x14bc79788",
+    "name": "GetEffectDefination",
+    "next_qword": "0x145dd2010",
+    "kind": "0x45dd2040",
+    "packed_offset": "0x4bc79580"
+  },
+  {
+    "va": "0x14bc79798",
+    "name": "GetEffectDefinationClass",
+    "next_qword": "0x145dd2040",
+    "kind": "0x45dd2070",
+    "packed_offset": "0x4bc79630"
+  },
+  {
+    "va": "0x14bc797a8",
+    "name": "GetMagnitude",
+    "next_qword": "0x145dd2070",
+    "kind": "0x45dd20a0",
+    "packed_offset": "0x4bc796d8"
+  },
+  {
+    "va": "0x14bc797b8",
+    "name": "GetModifyAttribute",
+    "next_qword": "0x145dd20a0",
+    "kind": "0x45dd20d0",
+    "packed_offset": "0x0"
+  },
+  {
+    "va": "0x14bc797c8",
+    "name": "GetModOp",
+    "next_qword": "0x145dd20d0",
+    "kind": "0x0",
+    "packed_offset": "0x4a6ab8b0"
+  },
+  {
+    "va": "0x14bc797d8",
+    "name": "SetMagnitude",
+    "next_qword": "0x0",
+    "kind": "0x45dd2660",
+    "packed_offset": "0x4bc79738"
+  },
+  {
+    "va": "0x14bc797f8",
+    "name": "Game",
+    "next_qword": "0x14bc797e0",
+    "kind": "0x4bc79750",
+    "packed_offset": "0x8092"
+  },
+  {
+    "va": "0x14bc79880",
+    "name": "G",
+    "next_qword": "0x14dff2d18",
+    "kind": "0x45dd2750",
+    "packed_offset": "0x4dff2d30"
+  },
+  {
+    "va": "0x14bc798a8",
+    "name": "U",
+    "next_qword": "0x14dff2d30",
+    "kind": "0x410055",
+    "packed_offset": "0x57005f"
+  },
+  {
+    "va": "0x14bc79920",
+    "name": "Character",
+    "next_qword": "0x0",
+    "kind": "0x12",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79960",
+    "name": "DieContext",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x80001"
+  },
+  {
+    "va": "0x14bc79a10",
+    "name": "ReturnValue",
+    "next_qword": "0x0",
+    "kind": "0x4c",
+    "packed_offset": "0x10001"
+  },
+  {
+    "va": "0x14bc79a70",
+    "name": "DieHandle",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79ae8",
+    "name": "IsDead",
+    "next_qword": "0x145dd2300",
+    "kind": "0x1",
+    "packed_offset": "0x0"
+  },
+  {
+    "va": "0x14bc79af8",
+    "name": "OnDie",
+    "next_qword": "0x1",
+    "kind": "0x45dd2410",
+    "packed_offset": "0x4bc79ad0"
+  },
+  {
+    "va": "0x14bc79b50",
+    "name": "OldValue",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79bb0",
+    "name": "OldValue",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1"
+  },
+  {
+    "va": "0x14bc79c10",
+    "name": "Level",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x480001"
+  },
+  {
+    "va": "0x14bc79c50",
+    "name": "Health",
+    "next_qword": "0x14bc79b98",
+    "kind": "0x19",
+    "packed_offset": "0x580001"
+  },
+  {
+    "va": "0x14bc79c58",
+    "name": "OnRep_Health",
+    "next_qword": "0x10000100000034",
+    "kind": "0x0",
+    "packed_offset": "0x44c48bd0"
+  },
+  {
+    "va": "0x14bc79c90",
+    "name": "Health_Max",
+    "next_qword": "0x14bc79bf8",
+    "kind": "0x19",
+    "packed_offset": "0x680001"
+  },
+  {
+    "va": "0x14bc79c98",
+    "name": "OnRep_Health_Max",
+    "next_qword": "0x10000100000034",
+    "kind": "0x0",
+    "packed_offset": "0x44c48bd0"
+  },
+  {
+    "va": "0x14bc79cd0",
+    "name": "Health_Max_Lv1",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x780001"
+  },
+  {
+    "va": "0x14bc79d10",
+    "name": "Shield",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x880001"
+  },
+  {
+    "va": "0x14bc79d50",
+    "name": "Shield_Max",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x980001"
+  },
+  {
+    "va": "0x14bc79d90",
+    "name": "Infliction_Max",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa80001"
+  },
+  {
+    "va": "0x14bc79dd0",
+    "name": "Infliction_Max_Lv1",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb80001"
+  },
+  {
+    "va": "0x14bc79e10",
+    "name": "Attack",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc80001"
+  },
+  {
+    "va": "0x14bc79e50",
+    "name": "Attack_Lv1",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd80001"
+  },
+  {
+    "va": "0x14bc79e90",
+    "name": "Amplification_Physical",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xe80001"
+  },
+  {
+    "va": "0x14bc79ed0",
+    "name": "DealtVulnerabilityMultiplier_Physical",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xf80001"
+  },
+  {
+    "va": "0x14bc79f10",
+    "name": "DealtReductionMultiplier_Physical",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1080001"
+  },
+  {
+    "va": "0x14bc79f50",
+    "name": "Resistance_Physical",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1180001"
+  },
+  {
+    "va": "0x14bc79f90",
+    "name": "TakenAdditiveMultiplier_Physical",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1280001"
+  },
+  {
+    "va": "0x14bc79fd0",
+    "name": "TakenVulnerabilityMultiplier_Physical",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1380001"
+  },
+  {
+    "va": "0x14bc7a010",
+    "name": "TakenReductionMultiplier_Physical",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1480001"
+  },
+  {
+    "va": "0x14bc7a050",
+    "name": "Amplification_PhysicalSharp",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1580001"
+  },
+  {
+    "va": "0x14bc7a090",
+    "name": "DealtVulnerabilityMultiplier_PhysicalSharp",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1680001"
+  },
+  {
+    "va": "0x14bc7a0d0",
+    "name": "DealtReductionMultiplier_PhysicalSharp",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1780001"
+  },
+  {
+    "va": "0x14bc7a110",
+    "name": "Resistance_PhysicalSharp",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1880001"
+  },
+  {
+    "va": "0x14bc7a150",
+    "name": "TakenAdditiveMultiplier_PhysicalSharp",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1980001"
+  },
+  {
+    "va": "0x14bc7a190",
+    "name": "TakenVulnerabilityMultiplier_PhysicalSharp",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1a80001"
+  },
+  {
+    "va": "0x14bc7a1d0",
+    "name": "TakenReductionMultiplier_PhysicalSharp",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1b80001"
+  },
+  {
+    "va": "0x14bc7a210",
+    "name": "Amplification_PhysicalBlunt",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1c80001"
+  },
+  {
+    "va": "0x14bc7a250",
+    "name": "DealtVulnerabilityMultiplier_PhysicalBlunt",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1d80001"
+  },
+  {
+    "va": "0x14bc7a290",
+    "name": "DealtReductionMultiplier_PhysicalBlunt",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1e80001"
+  },
+  {
+    "va": "0x14bc7a2d0",
+    "name": "Resistance_PhysicalBlunt",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x1f80001"
+  },
+  {
+    "va": "0x14bc7a310",
+    "name": "TakenAdditiveMultiplier_PhysicalBlunt",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2080001"
+  },
+  {
+    "va": "0x14bc7a350",
+    "name": "TakenVulnerabilityMultiplier_PhysicalBlunt",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2180001"
+  },
+  {
+    "va": "0x14bc7a390",
+    "name": "TakenReductionMultiplier_PhysicalBlunt",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2280001"
+  },
+  {
+    "va": "0x14bc7a3d0",
+    "name": "Resistance_Poise",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2380001"
+  },
+  {
+    "va": "0x14bc7a410",
+    "name": "TakenAdditiveMultiplier_Poise",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2480001"
+  },
+  {
+    "va": "0x14bc7a450",
+    "name": "TakenVulnerabilityMultiplier_Poise",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2580001"
+  },
+  {
+    "va": "0x14bc7a490",
+    "name": "TakenReductionMultiplier_Poise",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2680001"
+  },
+  {
+    "va": "0x14bc7a4d0",
+    "name": "Amplification_Elemental",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2780001"
+  },
+  {
+    "va": "0x14bc7a510",
+    "name": "DealtVulnerabilityMultiplier_Elemental",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2880001"
+  },
+  {
+    "va": "0x14bc7a550",
+    "name": "DealtReductionMultiplier_Elemental",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2980001"
+  },
+  {
+    "va": "0x14bc7a590",
+    "name": "Resistance_Elemental",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2a80001"
+  },
+  {
+    "va": "0x14bc7a5d0",
+    "name": "TakenAdditiveMultiplier_Elemental",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2b80001"
+  },
+  {
+    "va": "0x14bc7a610",
+    "name": "TakenVulnerabilityMultiplier_Elemental",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2c80001"
+  },
+  {
+    "va": "0x14bc7a650",
+    "name": "TakenReductionMultiplier_Elemental",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2d80001"
+  },
+  {
+    "va": "0x14bc7a690",
+    "name": "Amplification_Fire",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2e80001"
+  },
+  {
+    "va": "0x14bc7a6d0",
+    "name": "DealtVulnerabilityMultiplier_Fire",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x2f80001"
+  },
+  {
+    "va": "0x14bc7a710",
+    "name": "DealtReductionMultiplier_Fire",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3080001"
+  },
+  {
+    "va": "0x14bc7a750",
+    "name": "Resistance_Fire",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3180001"
+  },
+  {
+    "va": "0x14bc7a790",
+    "name": "TakenAdditiveMultiplier_Fire",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3280001"
+  },
+  {
+    "va": "0x14bc7a7d0",
+    "name": "TakenVulnerabilityMultiplier_Fire",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3380001"
+  },
+  {
+    "va": "0x14bc7a810",
+    "name": "TakenReductionMultiplier_Fire",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3480001"
+  },
+  {
+    "va": "0x14bc7a850",
+    "name": "Amplification_Toxin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3580001"
+  },
+  {
+    "va": "0x14bc7a890",
+    "name": "DealtVulnerabilityMultiplier_Toxin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3680001"
+  },
+  {
+    "va": "0x14bc7a8d0",
+    "name": "DealtReductionMultiplier_Toxin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3780001"
+  },
+  {
+    "va": "0x14bc7a910",
+    "name": "Resistance_Toxin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3880001"
+  },
+  {
+    "va": "0x14bc7a950",
+    "name": "TakenAdditiveMultiplier_Toxin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3980001"
+  },
+  {
+    "va": "0x14bc7a990",
+    "name": "TakenVulnerabilityMultiplier_Toxin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3a80001"
+  },
+  {
+    "va": "0x14bc7a9d0",
+    "name": "TakenReductionMultiplier_Toxin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3b80001"
+  },
+  {
+    "va": "0x14bc7aa10",
+    "name": "Amplification_Ice",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3c80001"
+  },
+  {
+    "va": "0x14bc7aa50",
+    "name": "DealtVulnerabilityMultiplier_Ice",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3d80001"
+  },
+  {
+    "va": "0x14bc7aa90",
+    "name": "DealtReductionMultiplier_Ice",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3e80001"
+  },
+  {
+    "va": "0x14bc7aad0",
+    "name": "Resistance_Ice",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x3f80001"
+  },
+  {
+    "va": "0x14bc7ab10",
+    "name": "TakenAdditiveMultiplier_Ice",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4080001"
+  },
+  {
+    "va": "0x14bc7ab50",
+    "name": "TakenVulnerabilityMultiplier_Ice",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4180001"
+  },
+  {
+    "va": "0x14bc7ab90",
+    "name": "TakenReductionMultiplier_Ice",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4280001"
+  },
+  {
+    "va": "0x14bc7abd0",
+    "name": "Amplification_Aqua",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4380001"
+  },
+  {
+    "va": "0x14bc7ac10",
+    "name": "DealtVulnerabilityMultiplier_Aqua",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4480001"
+  },
+  {
+    "va": "0x14bc7ac50",
+    "name": "DealtReductionMultiplier_Aqua",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4580001"
+  },
+  {
+    "va": "0x14bc7ac90",
+    "name": "Resistance_Aqua",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4680001"
+  },
+  {
+    "va": "0x14bc7acd0",
+    "name": "TakenAdditiveMultiplier_Aqua",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4780001"
+  },
+  {
+    "va": "0x14bc7ad10",
+    "name": "TakenVulnerabilityMultiplier_Aqua",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4880001"
+  },
+  {
+    "va": "0x14bc7ad50",
+    "name": "TakenReductionMultiplier_Aqua",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4980001"
+  },
+  {
+    "va": "0x14bc7ad90",
+    "name": "Amplification_Lightning",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4a80001"
+  },
+  {
+    "va": "0x14bc7add0",
+    "name": "DealtVulnerabilityMultiplier_Lightning",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4b80001"
+  },
+  {
+    "va": "0x14bc7ae10",
+    "name": "DealtReductionMultiplier_Lightning",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4c80001"
+  },
+  {
+    "va": "0x14bc7ae50",
+    "name": "Resistance_Lightning",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4d80001"
+  },
+  {
+    "va": "0x14bc7ae90",
+    "name": "TakenAdditiveMultiplier_Lightning",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4e80001"
+  },
+  {
+    "va": "0x14bc7aed0",
+    "name": "TakenVulnerabilityMultiplier_Lightning",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x4f80001"
+  },
+  {
+    "va": "0x14bc7af10",
+    "name": "TakenReductionMultiplier_Lightning",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5080001"
+  },
+  {
+    "va": "0x14bc7af50",
+    "name": "Amplification_Blood",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5180001"
+  },
+  {
+    "va": "0x14bc7af90",
+    "name": "DealtVulnerabilityMultiplier_Blood",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5280001"
+  },
+  {
+    "va": "0x14bc7afd0",
+    "name": "DealtReductionMultiplier_Blood",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5380001"
+  },
+  {
+    "va": "0x14bc7b010",
+    "name": "Resistance_Blood",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5480001"
+  },
+  {
+    "va": "0x14bc7b050",
+    "name": "TakenAdditiveMultiplier_Blood",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5580001"
+  },
+  {
+    "va": "0x14bc7b090",
+    "name": "TakenVulnerabilityMultiplier_Blood",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5680001"
+  },
+  {
+    "va": "0x14bc7b0d0",
+    "name": "TakenReductionMultiplier_Blood",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5780001"
+  },
+  {
+    "va": "0x14bc7b110",
+    "name": "Amplification_Chaos",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5880001"
+  },
+  {
+    "va": "0x14bc7b150",
+    "name": "DealtVulnerabilityMultiplier_Chaos",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5980001"
+  },
+  {
+    "va": "0x14bc7b190",
+    "name": "DealtReductionMultiplier_Chaos",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5a80001"
+  },
+  {
+    "va": "0x14bc7b1d0",
+    "name": "Resistance_Chaos",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5b80001"
+  },
+  {
+    "va": "0x14bc7b210",
+    "name": "TakenAdditiveMultiplier_Chaos",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5c80001"
+  },
+  {
+    "va": "0x14bc7b250",
+    "name": "TakenVulnerabilityMultiplier_Chaos",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5d80001"
+  },
+  {
+    "va": "0x14bc7b290",
+    "name": "TakenReductionMultiplier_Chaos",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5e80001"
+  },
+  {
+    "va": "0x14bc7b2d0",
+    "name": "Resistance_BreakDamageAdditionalMultiplier",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x5f80001"
+  },
+  {
+    "va": "0x14bc7b310",
+    "name": "TakenAdditiveMultiplier_BreakDamage",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6080001"
+  },
+  {
+    "va": "0x14bc7b350",
+    "name": "TakenVulnerabilityMultiplier_BreakDamage",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6180001"
+  },
+  {
+    "va": "0x14bc7b390",
+    "name": "TakenReductionMultiplier_BreakDamage",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6280001"
+  },
+  {
+    "va": "0x14bc7b3d0",
+    "name": "Shachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6380001"
+  },
+  {
+    "va": "0x14bc7b410",
+    "name": "Shachi_Min",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6480001"
+  },
+  {
+    "va": "0x14bc7b450",
+    "name": "Shachi_Max",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6580001"
+  },
+  {
+    "va": "0x14bc7b490",
+    "name": "Shachi_Max_Lv1",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6680001"
+  },
+  {
+    "va": "0x14bc7b4d0",
+    "name": "ShachiRegen",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6780001"
+  },
+  {
+    "va": "0x14bc7b510",
+    "name": "ShachiRegenCooldown",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6880001"
+  },
+  {
+    "va": "0x14bc7b550",
+    "name": "BreakDurationAdditionalMultiplier",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6980001"
+  },
+  {
+    "va": "0x14bc7b590",
+    "name": "ShachiAttack",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6a80001"
+  },
+  {
+    "va": "0x14bc7b5d0",
+    "name": "ShachiAttack_Lv1",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6b80001"
+  },
+  {
+    "va": "0x14bc7b610",
+    "name": "Amplification_ImpactShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6c80001"
+  },
+  {
+    "va": "0x14bc7b650",
+    "name": "DealtVulnerabilityMultiplier_ImpactShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6d80001"
+  },
+  {
+    "va": "0x14bc7b690",
+    "name": "DealtReductionMultiplier_ImpactShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6e80001"
+  },
+  {
+    "va": "0x14bc7b6d0",
+    "name": "Resistance_ImpactShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x6f80001"
+  },
+  {
+    "va": "0x14bc7b710",
+    "name": "TakenAdditiveMultiplier_ImpactShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7080001"
+  },
+  {
+    "va": "0x14bc7b750",
+    "name": "TakenVulnerabilityMultiplier_ImpactShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7180001"
+  },
+  {
+    "va": "0x14bc7b790",
+    "name": "TakenReductionMultiplier_ImpactShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7280001"
+  },
+  {
+    "va": "0x14bc7b7d0",
+    "name": "Amplification_ReflectShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7380001"
+  },
+  {
+    "va": "0x14bc7b810",
+    "name": "DealtVulnerabilityMultiplier_ReflectShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7480001"
+  },
+  {
+    "va": "0x14bc7b850",
+    "name": "DealtReductionMultiplier_ReflectShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7580001"
+  },
+  {
+    "va": "0x14bc7b890",
+    "name": "Resistance_ReflectShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7680001"
+  },
+  {
+    "va": "0x14bc7b8d0",
+    "name": "TakenAdditiveMultiplier_ReflectShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7780001"
+  },
+  {
+    "va": "0x14bc7b910",
+    "name": "TakenVulnerabilityMultiplier_ReflectShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7880001"
+  },
+  {
+    "va": "0x14bc7b950",
+    "name": "TakenReductionMultiplier_ReflectShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7980001"
+  },
+  {
+    "va": "0x14bc7b990",
+    "name": "Amplification_DefenceShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7a80001"
+  },
+  {
+    "va": "0x14bc7b9d0",
+    "name": "DealtVulnerabilityMultiplier_DefenceShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7b80001"
+  },
+  {
+    "va": "0x14bc7ba10",
+    "name": "DealtReductionMultiplier_DefenceShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7c80001"
+  },
+  {
+    "va": "0x14bc7ba50",
+    "name": "Resistance_DefenceShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7d80001"
+  },
+  {
+    "va": "0x14bc7ba90",
+    "name": "TakenAdditiveMultiplier_DefenceShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7e80001"
+  },
+  {
+    "va": "0x14bc7bad0",
+    "name": "TakenVulnerabilityMultiplier_DefenceShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x7f80001"
+  },
+  {
+    "va": "0x14bc7bb10",
+    "name": "TakenReductionMultiplier_DefenceShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8080001"
+  },
+  {
+    "va": "0x14bc7bb50",
+    "name": "Resistance_ShachiWeaponHealth",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8180001"
+  },
+  {
+    "va": "0x14bc7bb90",
+    "name": "Resistance_ShachiWeaponShachi",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8280001"
+  },
+  {
+    "va": "0x14bc7bbd0",
+    "name": "Resistance_ShachiWeaponStrength",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8380001"
+  },
+  {
+    "va": "0x14bc7bc10",
+    "name": "Resistance_ShachiWeaponRanged",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8480001"
+  },
+  {
+    "va": "0x14bc7bc50",
+    "name": "Resistance_ShachiWeaponMagic",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8580001"
+  },
+  {
+    "va": "0x14bc7bc90",
+    "name": "Resistance_ShachiWeaponMartial",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8680001"
+  },
+  {
+    "va": "0x14bc7bcd0",
+    "name": "Resistance_ShachiWeaponSummon",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8780001"
+  },
+  {
+    "va": "0x14bc7bd10",
+    "name": "HeavyAttack_ShachiCostReduction",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8880001"
+  },
+  {
+    "va": "0x14bc7bd50",
+    "name": "UltimateCharge",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8980001"
+  },
+  {
+    "va": "0x14bc7bd90",
+    "name": "UltimateCharge_Max",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8a80001"
+  },
+  {
+    "va": "0x14bc7bdd0",
+    "name": "UltimateChargeCount",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8b80001"
+  },
+  {
+    "va": "0x14bc7be10",
+    "name": "UltimateChargeCount_Max",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8c80001"
+  },
+  {
+    "va": "0x14bc7be50",
+    "name": "UltimateChargeAdditiveRate",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8d80001"
+  },
+  {
+    "va": "0x14bc7be90",
+    "name": "UltimateChargeGainRateMultiplier",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8e80001"
+  },
+  {
+    "va": "0x14bc7bed0",
+    "name": "SpiritShadow",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x8f80001"
+  },
+  {
+    "va": "0x14bc7bf10",
+    "name": "SpiritShadow_Max",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9080001"
+  },
+  {
+    "va": "0x14bc7bf50",
+    "name": "Ignite_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9180001"
+  },
+  {
+    "va": "0x14bc7bf90",
+    "name": "Poison_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9280001"
+  },
+  {
+    "va": "0x14bc7bfd0",
+    "name": "Frost_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9380001"
+  },
+  {
+    "va": "0x14bc7c010",
+    "name": "Thunder_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9480001"
+  },
+  {
+    "va": "0x14bc7c050",
+    "name": "Electrified_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9580001"
+  },
+  {
+    "va": "0x14bc7c090",
+    "name": "Bleed_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9680001"
+  },
+  {
+    "va": "0x14bc7c0d0",
+    "name": "BloodBurst_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9780001"
+  },
+  {
+    "va": "0x14bc7c110",
+    "name": "Water_Accumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9880001"
+  },
+  {
+    "va": "0x14bc7c150",
+    "name": "Amplification_ElementalAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9980001"
+  },
+  {
+    "va": "0x14bc7c190",
+    "name": "DealtVulnerabilityMultiplier_ElementalAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9a80001"
+  },
+  {
+    "va": "0x14bc7c1d0",
+    "name": "DealtReductionMultiplier_ElementalAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9b80001"
+  },
+  {
+    "va": "0x14bc7c210",
+    "name": "Resistance_ElementalAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9c80001"
+  },
+  {
+    "va": "0x14bc7c250",
+    "name": "TakenAdditiveMultiplier_ElementalAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9d80001"
+  },
+  {
+    "va": "0x14bc7c290",
+    "name": "TakenVulnerabilityMultiplier_ElementalAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9e80001"
+  },
+  {
+    "va": "0x14bc7c2d0",
+    "name": "TakenReductionMultiplier_ElementalAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0x9f80001"
+  },
+  {
+    "va": "0x14bc7c310",
+    "name": "Amplification_Ignite",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa080001"
+  },
+  {
+    "va": "0x14bc7c350",
+    "name": "DealtVulnerabilityMultiplier_IgniteAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa180001"
+  },
+  {
+    "va": "0x14bc7c390",
+    "name": "DealtReductionMultiplier_IgniteAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa280001"
+  },
+  {
+    "va": "0x14bc7c3d0",
+    "name": "Resistance_IgniteAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa380001"
+  },
+  {
+    "va": "0x14bc7c410",
+    "name": "TakenAdditiveMultiplier_IgniteAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa480001"
+  },
+  {
+    "va": "0x14bc7c450",
+    "name": "TakenVulnerabilityMultiplier_IgniteAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa580001"
+  },
+  {
+    "va": "0x14bc7c490",
+    "name": "TakenReductionMultiplier_IgniteAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa680001"
+  },
+  {
+    "va": "0x14bc7c4d0",
+    "name": "Amplification_Poison",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa780001"
+  },
+  {
+    "va": "0x14bc7c510",
+    "name": "DealtVulnerabilityMultiplier_PoisonAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa880001"
+  },
+  {
+    "va": "0x14bc7c550",
+    "name": "DealtReductionMultiplier_PoisonAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xa980001"
+  },
+  {
+    "va": "0x14bc7c590",
+    "name": "Resistance_PoisonAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xaa80001"
+  },
+  {
+    "va": "0x14bc7c5d0",
+    "name": "TakenAdditiveMultiplier_PoisonAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xab80001"
+  },
+  {
+    "va": "0x14bc7c610",
+    "name": "TakenVulnerabilityMultiplier_PoisonAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xac80001"
+  },
+  {
+    "va": "0x14bc7c650",
+    "name": "TakenReductionMultiplier_PoisonAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xad80001"
+  },
+  {
+    "va": "0x14bc7c690",
+    "name": "Amplification_Frost",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xae80001"
+  },
+  {
+    "va": "0x14bc7c6d0",
+    "name": "DealtVulnerabilityMultiplier_FrostAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xaf80001"
+  },
+  {
+    "va": "0x14bc7c710",
+    "name": "DealtReductionMultiplier_FrostAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb080001"
+  },
+  {
+    "va": "0x14bc7c750",
+    "name": "Resistance_FrostAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb180001"
+  },
+  {
+    "va": "0x14bc7c790",
+    "name": "TakenAdditiveMultiplier_FrostAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb280001"
+  },
+  {
+    "va": "0x14bc7c7d0",
+    "name": "TakenVulnerabilityMultiplier_FrostAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb380001"
+  },
+  {
+    "va": "0x14bc7c810",
+    "name": "TakenReductionMultiplier_FrostAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb480001"
+  },
+  {
+    "va": "0x14bc7c850",
+    "name": "Amplification_Electrified",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb580001"
+  },
+  {
+    "va": "0x14bc7c890",
+    "name": "DealtVulnerabilityMultiplier_ElectrifiedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb680001"
+  },
+  {
+    "va": "0x14bc7c8d0",
+    "name": "DealtReductionMultiplier_ElectrifiedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb780001"
+  },
+  {
+    "va": "0x14bc7c910",
+    "name": "Resistance_ElectrifiedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb880001"
+  },
+  {
+    "va": "0x14bc7c950",
+    "name": "TakenAdditiveMultiplier_ElectrifiedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xb980001"
+  },
+  {
+    "va": "0x14bc7c990",
+    "name": "TakenVulnerabilityMultiplier_ElectrifiedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xba80001"
+  },
+  {
+    "va": "0x14bc7c9d0",
+    "name": "TakenReductionMultiplier_ElectrifiedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xbb80001"
+  },
+  {
+    "va": "0x14bc7ca10",
+    "name": "Amplification_Bleed",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xbc80001"
+  },
+  {
+    "va": "0x14bc7ca50",
+    "name": "DealtVulnerabilityMultiplier_BleedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xbd80001"
+  },
+  {
+    "va": "0x14bc7ca90",
+    "name": "DealtReductionMultiplier_BleedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xbe80001"
+  },
+  {
+    "va": "0x14bc7cad0",
+    "name": "Resistance_BleedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xbf80001"
+  },
+  {
+    "va": "0x14bc7cb10",
+    "name": "TakenAdditiveMultiplier_BleedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc080001"
+  },
+  {
+    "va": "0x14bc7cb50",
+    "name": "TakenVulnerabilityMultiplier_BleedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc180001"
+  },
+  {
+    "va": "0x14bc7cb90",
+    "name": "TakenReductionMultiplier_BleedAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc280001"
+  },
+  {
+    "va": "0x14bc7cbd0",
+    "name": "Amplification_BloodBurst",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc380001"
+  },
+  {
+    "va": "0x14bc7cc10",
+    "name": "DealtVulnerabilityMultiplier_BloodBurstAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc480001"
+  },
+  {
+    "va": "0x14bc7cc50",
+    "name": "DealtReductionMultiplier_BloodBurstAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc580001"
+  },
+  {
+    "va": "0x14bc7cc90",
+    "name": "Resistance_BloodBurstAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc680001"
+  },
+  {
+    "va": "0x14bc7ccd0",
+    "name": "TakenAdditiveMultiplier_BloodBurstAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc780001"
+  },
+  {
+    "va": "0x14bc7cd10",
+    "name": "TakenVulnerabilityMultiplier_BloodBurstAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc880001"
+  },
+  {
+    "va": "0x14bc7cd50",
+    "name": "TakenReductionMultiplier_BloodBurstAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xc980001"
+  },
+  {
+    "va": "0x14bc7cd90",
+    "name": "Amplification_Water",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xca80001"
+  },
+  {
+    "va": "0x14bc7cdd0",
+    "name": "DealtVulnerabilityMultiplier_WaterAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xcb80001"
+  },
+  {
+    "va": "0x14bc7ce10",
+    "name": "DealtReductionMultiplier_WaterAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xcc80001"
+  },
+  {
+    "va": "0x14bc7ce50",
+    "name": "Resistance_WaterAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xcd80001"
+  },
+  {
+    "va": "0x14bc7ce90",
+    "name": "TakenAdditiveMultiplier_WaterAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xce80001"
+  },
+  {
+    "va": "0x14bc7ced0",
+    "name": "TakenVulnerabilityMultiplier_WaterAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xcf80001"
+  },
+  {
+    "va": "0x14bc7cf10",
+    "name": "TakenReductionMultiplier_WaterAccumulation",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd080001"
+  },
+  {
+    "va": "0x14bc7cf50",
+    "name": "StatusInflictionDecrementRate",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd180001"
+  },
+  {
+    "va": "0x14bc7cf90",
+    "name": "ExecutionExecutorNormalHealthThreshold",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd280001"
+  },
+  {
+    "va": "0x14bc7cfd0",
+    "name": "ExecutionExecutorBreakHealthThreshold",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd380001"
+  },
+  {
+    "va": "0x14bc7d010",
+    "name": "ExecutionTargetNormalHealthThreshold",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd480001"
+  },
+  {
+    "va": "0x14bc7d050",
+    "name": "ExecutionTargetBreakHealthThreshold",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd580001"
+  },
+  {
+    "va": "0x14bc7d090",
+    "name": "MindDustAdditiveMultiplier",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd680001"
+  },
+  {
+    "va": "0x14bc7d0d0",
+    "name": "Health_Min",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd780001"
+  },
+  {
+    "va": "0x14bc7d110",
+    "name": "WalkSpeed",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd880001"
+  },
+  {
+    "va": "0x14bc7d150",
+    "name": "JogSpeed",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xd980001"
+  },
+  {
+    "va": "0x14bc7d190",
+    "name": "SprintSpeed",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xda80001"
+  },
+  {
+    "va": "0x14bc7d1d0",
+    "name": "CrouchSpeed",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xdb80001"
+  },
+  {
+    "va": "0x14bc7d210",
+    "name": "FinalWalkSpeed",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xdc80001"
+  },
+  {
+    "va": "0x14bc7d250",
+    "name": "Awakening",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xdd80001"
+  },
+  {
+    "va": "0x14bc7d290",
+    "name": "Awakening_Max",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xde80001"
+  },
+  {
+    "va": "0x14bc7d2d0",
+    "name": "PowerScore",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xdf80001"
+  },
+  {
+    "va": "0x14bc7d310",
+    "name": "XP",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xe080001"
+  },
+  {
+    "va": "0x14bc7d350",
+    "name": "Coin",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xe180001"
+  },
+  {
+    "va": "0x14bc7d390",
+    "name": "Corrosion",
+    "next_qword": "0x0",
+    "kind": "0x19",
+    "packed_offset": "0xe280001"
+  },
+  {
+    "va": "0x14bc7dae0",
+    "name": "OnRep_Health",
+    "next_qword": "0x145dd23e0",
+    "kind": "0x0",
+    "packed_offset": "0x4bc7daf8"
+  },
+  {
+    "va": "0x14bc7daf0",
+    "name": "OnRep_Health_Max",
+    "next_qword": "0x0",
+    "kind": "0x0",
+    "packed_offset": "0x4bc7dad8"
+  }
+]

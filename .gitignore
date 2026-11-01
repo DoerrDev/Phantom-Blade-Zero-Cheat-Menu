@@ -1,0 +1,22 @@
+# 白名单：仓库只包含工具本身，逆向分析产物、构建输出与本地日志一律不提交。
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/AGENTS.md
+!/inventory_gui_backend.py
+!/weapon_backend.py
+!/character_probe.py
+!/character_gui.py
+!/inventory_gui.py
+!/weapon_gui.py
+!/windows_memory.py
+!/character-basic-attribute-metadata.json
+!/test_character_editor.py
+!/test_inventory_gui.py
+!/test_weapon_editor.py
+!/gui_redesign/
+
+/gui_redesign/picture.png
+__pycache__/
+*.pyc
